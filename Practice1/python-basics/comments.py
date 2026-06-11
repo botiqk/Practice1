@@ -1,7 +1,7 @@
 #1 example is a comment
 print("Venom")
 
-print("LOL") #2 at the end will be also count as a comment
+print("LOL") #2 example at the end will be also count as a comment
 
 #3 example
 #print("Hello, World!")
